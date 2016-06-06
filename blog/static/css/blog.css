@@ -1,12 +1,12 @@
 h1 a {
-  color: #E32609;
+  color: #F70505;
 }
 body {
   font-family: 'Lobster';
   padding-left: 15px;
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: #F70505;
     margin-top: 0;
     padding: 20px 20px 20px 40px;
 }
@@ -22,12 +22,12 @@ body {
 }
 
 h1, h2, h3, h4 {
-    font-family: 'Lobster', cursive;
+    font-family: 'Montez', cursive;
 }
 
 .date {
     float: right;
-    color: #828282;
+    color: #F78D8D;
 }
 
 .save {
